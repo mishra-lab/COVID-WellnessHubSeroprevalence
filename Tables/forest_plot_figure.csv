@@ -1,0 +1,46 @@
+analysis,domain,group,label_head,label_level,label,PR,lower,upper
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Period,Period (baseline: Before 2022-01-01),Period (baseline: Before 2022-01-01),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Period,Period (baseline: Before 2022-01-01),After vs Before 2022-01-01,After vs Before 2022-01-02,1.87,1.44,2.43
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Gender (baseline: Man),Gender (baseline: Man),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Gender (baseline: Man),Woman vs Man,Woman vs Man,1.48,0.97,2.25
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Education (baseline: Up to high school graduation),Education (baseline: Up to high school graduation),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Education (baseline: Up to high school graduation),College degree or trades certificate vs Up to high school graduation,College degree or trades certificate vs Up to high school graduation,1,0.7,1.41
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Education (baseline: Up to high school graduation),University bachelor's degree vs Up to high school graduation,University bachelor's degree vs Up to high school graduation,1.15,0.83,1.61
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Education (baseline: Up to high school graduation),Graduate or professional degree vs Up to high school graduation,Graduate or professional degree vs Up to high school graduation,0.92,0.62,1.37
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Race (baseline: White),Race (baseline: White),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Race (baseline: White),Black vs White,Black vs White,1.78,1.28,2.48
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Race (baseline: White),East or Southeast Asian vs White,East or Southeast Asian vs White,1.55,1.18,2.04
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Socio-demographic characteristics,Race (baseline: White),Other racialized vs White,Other racialized vs White,1.42,1.03,1.96
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,"Household income (baseline: $0-$59,999)","Household income (baseline: $0-$59,999)",,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,"Household income (baseline: $0-$59,999)","$60,000-$89,999 vs $0-$59,999","$60,000-$89,999 vs $0-$59,999",1.03,0.72,1.5
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,"Household income (baseline: $0-$59,999)","$90,000 or more vs $0-$59,999","$90,000 or more vs $0-$59,999",1.1,0.81,1.5
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Number of people in household (baseline: 1),Number of people in household (baseline: 1),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Number of people in household (baseline: 1),2-4 vs 1,2-4 vs 1,1.1,0.7,1.73
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Number of people in household (baseline: 1),5+ vs 1,5+ vs 1,1.13,0.69,1.86
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Housing type (baseline: Apartment/condo),Housing type (baseline: Apartment/condo),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Housing type (baseline: Apartment/condo),House vs Apartment/condo,House vs Apartment/condo,0.88,0.69,1.13
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Household characteristics,Housing type (baseline: Apartment/condo),Other vs Apartment/condo,Other vs Apartment/condo,0.84,0.47,1.49
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,FSA-level hotspot (baseline: Non-hotspot),FSA-level hotspot (baseline: Non-hotspot),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,FSA-level hotspot (baseline: Non-hotspot),Hotspot vs Non-hotspot,Hotspot vs Non-hotspot,1.25,1,1.57
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level income (baseline: 1-Lowest),DA-level income (baseline: 1-Lowest),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level income (baseline: 1-Lowest),income 2 vs 1,income 2 vs 1,0.89,0.68,1.15
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level income (baseline: 1-Lowest),income 3 vs 1,income 3 vs 1,0.73,0.54,0.98
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level proportion essential workers (baseline: 1-Lowest),DA-level proportion essential workers (baseline: 1-Lowest),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level proportion essential workers (baseline: 1-Lowest),proportion essential workers 2 vs 1,proportion essential workers 2 vs 1,1.15,0.85,1.55
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Neighbourhood-level characteristics,DA-level proportion essential workers (baseline: 1-Lowest),proportion essential workers 3 vs 1,proportion essential workers 3 vs 1,1.23,0.91,1.65
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Occupation (baseline: Administration or management),Occupation (baseline: Administration or management),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Occupation (baseline: Administration or management),Personal support worker or support staff vs Administration or management,Personal support worker or support staff vs Administration or management,1.17,0.87,1.58
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Occupation (baseline: Administration or management),"Physician, nurse or registered practical nurses vs Administration or management","Physician, nurse or registered practical nurses vs Administration or management",1.06,0.77,1.47
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Occupation (baseline: Administration or management),Other vs Administration or management,Other vs Administration or management,0.89,0.59,1.33
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Employment status (baseline: Full-time),Employment status (baseline: Full-time),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Employment status (baseline: Full-time),Part-time or agency/contract vs Full-time,Part-time or agency/contract vs Full-time,1,0.77,1.28
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Employment status (baseline: Full-time),Other vs Full-time,Other vs Full-time,0.92,0.52,1.65
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Home type (baseline: Long-term care home),Home type (baseline: Long-term care home),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Home type (baseline: Long-term care home),Retirement home vs Long-term care home,Retirement home vs Long-term care home,0.9,0.69,1.19
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Transportation to work (baseline: Drive alone),Transportation to work (baseline: Drive alone),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Transportation to work (baseline: Drive alone),Walk or cycle vs Drive alone,Walk or cycle vs Drive alone,0.8,0.44,1.47
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Transportation to work (baseline: Drive alone),Rideshare or carpool vs Drive alone,Rideshare or carpool vs Drive alone,0.91,0.63,1.33
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Transportation to work (baseline: Drive alone),Public transport vs Drive alone,Public transport vs Drive alone,1.23,0.93,1.62
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Transportation to work (baseline: Drive alone),"Work from home, or not currently working vs Drive alone","Work from home, or not currently working vs Drive alone",1.33,0.72,2.43
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Paid sick leave (baseline: Yes),Paid sick leave (baseline: Yes),,,,
+Prevalence ratio/prevalence odds ratio,Age adjusted PR,Occupational characteristics,Paid sick leave (baseline: Yes),No vs Yes,No vs Yes,0.58,0.45,0.75
